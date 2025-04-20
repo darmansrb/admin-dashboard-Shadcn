@@ -1,6 +1,6 @@
 # ✨ Admin Dashboard Shadcn
 
-![Admin Dashboard Preview](https://github.com/darmansrb/admin-dashboard-Shadcn/assets/your-image-id-or-path.png)
+![Admin Dashboard Preview](public/assets/example/ligthmode.jpg)
 
 **Admin Dashboard Shadcn** adalah dashboard modern, ringan, dan fleksibel yang dirancang dengan teknologi terkini seperti Laravel, Inertia.js, React, dan komponen UI elegan dari **Shadcn/UI**. Cocok untuk aplikasi internal perusahaan, CMS, dan kebutuhan admin lainnya.
 
