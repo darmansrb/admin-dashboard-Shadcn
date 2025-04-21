@@ -1,6 +1,6 @@
 import React, { useState } from "react";
-import { AdminLayout } from "@/layouts/AdminLayout";
-import { StatCard } from "@/components/ui/StatCard";
+import { AdminLayout } from "@/Layouts/AdminLayout";
+import { StatCard } from "@/Components/ui/StatCard";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 
 const DashboardSurveyPage = () => {
