@@ -1,8 +1,8 @@
 import { Head, useForm } from '@inertiajs/react';
 import React from 'react'
-import { Input } from "@/components/ui/input";
-import { Button } from "@/components/ui/button";
-import { Label } from "@/components/ui/label";
+import { Input } from "@/Components/ui/input";
+import { Button } from "@/Components/ui/button";
+import { Label } from "@/Components/ui/label";
 
 const LoginPage = () => {
 

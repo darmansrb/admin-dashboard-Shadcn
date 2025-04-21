@@ -1,12 +1,12 @@
 import React from "react";
-import { Button } from "@/components/ui/button";
-import ThemeToggle from "@/components/ui/theme-toggle";
+import { Button } from "@/Components/ui/button";
+import ThemeToggle from "@/Components/ui/theme-toggle";
 import {
   DropdownMenu,
   DropdownMenuTrigger,
   DropdownMenuContent,
   DropdownMenuItem,
-} from "@/components/ui/dropdown-menu";
+} from "@/Components/ui/dropdown-menu";
 import { PanelLeft } from "lucide-react";
 
 export default function Navbar({ sidebarOpen, setSidebarOpen }) {

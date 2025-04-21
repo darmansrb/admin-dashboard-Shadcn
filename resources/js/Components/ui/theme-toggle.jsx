@@ -8,8 +8,8 @@ import {
   DropdownMenuItem,
   DropdownMenuLabel,
   DropdownMenuSeparator,
-} from "@/components/ui/dropdown-menu";
-import { Button } from "@/components/ui/button";
+} from "@/Components/ui/dropdown-menu";
+import { Button } from "@/Components/ui/button";
 import { Sun, Moon, Laptop } from "lucide-react";
 
 export default function ThemeToggle() {

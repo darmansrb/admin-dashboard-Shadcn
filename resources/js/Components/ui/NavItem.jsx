@@ -4,7 +4,7 @@ import {
   TooltipTrigger,
   TooltipContent,
   TooltipProvider,
-} from "@/components/ui/tooltip";
+} from "@/Components/ui/tooltip";
 
 export default function NavItem({
   icon,
