@@ -23,7 +23,7 @@ const LoginPage = () => {
         {/* Left Side */}
         <div className="w-1/3 bg-[#2e2f35] flex flex-col items-center justify-center p-8">
           <img
-            src="/assets/logo/Bank-NTT-Logo-720p.png"
+            src="/assets/logo/dthrees_logo.png"
             alt="Bank NTT Logo"
             className="mb-4 w-48 filter invert dark:invert-0 brightness-0 dark:brightness-100"
           />
